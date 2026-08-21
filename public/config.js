@@ -1,3 +1,3 @@
 window.APP_CONFIG = {
-  LIFF_ID: "YOUR_LIFF_ID"
+  LIFF_ID: "2011179033-jYttjVba"
 };
