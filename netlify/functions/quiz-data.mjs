@@ -1,5 +1,5 @@
 export const quiz=[
-{id:"q1",question:"なごみの湯は何時間営業？",options:["13時間営業","14.5時間営業","22.5時間営業","24時間営業"],correctIndex:2},
+{id:"q1",question:"なごみの湯は何時間営業？",options:["13時間営業","14.5時間営業","22.5時間営業","24時間営業"],correctIndex:2,comment:"仮眠室完備で翌朝9時まで滞在可能"},
 {id:"q2",question:"館内のマンガは全部で何冊？",options:["1,000冊","3,000冊","5,000冊","7,000冊"],correctIndex:3},
 {id:"q3",question:"超高濃度炭酸泉は何ppm？",options:["1,000ppm","1,100ppm","1,200ppm","1,300ppm"],correctIndex:3},
 {id:"q4",question:"なごみの湯の天然温泉の名称は？",options:["黒宝の湯","黒曜の湯","琥珀の湯","上荻温泉"],correctIndex:1},
