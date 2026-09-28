@@ -151,10 +151,10 @@ async function checkAnswer(selectedIndex, clickedButton) {
         selectedIndex
       });
 
-      showMessage(
-        "正解！",
-        "correct"
-      );
+     showMessage(
+  q.comment ? `正解！　${q.comment}` : "正解！",
+  "correct"
+);
 
       buttons.forEach(
         button => button.disabled = true
